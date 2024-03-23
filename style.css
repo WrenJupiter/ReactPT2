@@ -1,0 +1,17 @@
+.tweet {
+    display: flex;
+    justify-content: space-between;
+    padding: 1em;
+}
+.date {
+    background-color: lightgray;
+}
+.name {
+    font-family: "Kumar One Outline";
+    font-weight:900;
+    font-size: 1.2em;
+}
+
+.message {
+    color: blueviolet;
+}
